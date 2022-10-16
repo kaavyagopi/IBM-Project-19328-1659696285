@@ -16,7 +16,7 @@ Pooja Lakshmi S-Team Member
 Team Member 5
 ```
 
-# **📘 PROJECT DESCRIPTION:**          
+# **👩🏻‍💻PROJECT DESCRIPTION:**          
 Detection of animals damaging crops.
 Getting protection from animals damaging crops.      
 Alerts the authorized person to when something enters into the crop field.     
