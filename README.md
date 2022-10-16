@@ -1,5 +1,5 @@
 # IBM-Project-19328-16596285
-#  <img src="https://giphy.com/stickers/happy-cactus-soli-deo-gloria-fwYPJSlw7EqR7c29vs/giphy.gif" width="480px">IoT Based Smart Crop Protection System for Agriculture
+#🌱 IoT Based Smart Crop Protection System for Agriculture
 
 ## 💻Project Details
 - TECHNOLOGY : IOT        Cancel changes
