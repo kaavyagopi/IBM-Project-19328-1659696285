@@ -1,8 +1,8 @@
 # IBM-Project-19328-16596285
-#  <img src="https://giphy.com/gifs/BareTreeMedia-cute-me-and-you-pat-lOaf0LBA2mluwm8cY8/giphy.gif" width="30px">IoT Based Smart Crop Protection System for Agriculture
+#  <img src="https://giphy.com/stickers/happy-cactus-soli-deo-gloria-fwYPJSlw7EqR7c29vs" width="480px">IoT Based Smart Crop Protection System for Agriculture
 
 ## 💻Project Details
-- TECHNOLOGY : IOT        
+- TECHNOLOGY : IOT        Cancel changes
 - TEAM ID : PNT2022TMID39683
 
 ## 🍵Team Members
