@@ -21,12 +21,7 @@ Getting protection from animals damaging crops.
 Alerts the authorized person to when something enters into the crop field.     
 We can view the notification from the application through the mobile at anytime and anywhere.  
 
-# **🎯Skills Required:**        
-IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
-
-
-> Note: Star The Repo, Come on....
 
 
 
