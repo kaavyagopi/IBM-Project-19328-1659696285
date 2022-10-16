@@ -2,7 +2,7 @@
 # 🌱 IoT Based Smart Crop Protection System for Agriculture
 
 ## 💻Project Details
-- TECHNOLOGY : IOT        Cancel changes
+- TECHNOLOGY : IOT        
 - TEAM ID : PNT2022TMID39683
 
 ## 🍵Team Members
