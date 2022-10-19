@@ -1,5 +1,5 @@
 # IBM-Project-19328-16596285
-![IOT BASED SMART CROP PROTECTION SYSTEM(1)](![iot in agriculture](https://user-images.githubusercontent.com/111967006/196667243-58fd76df-d8c6-4525-9de2-78f2cc7568dd.jpg)
+![IOT BASED SMART CROP PROTECTION SYSTEM(1)](iot in agriculture](https://user-images.githubusercontent.com/111967006/196667243-58fd76df-d8c6-4525-9de2-78f2cc7568dd.jpg)
 # 🌱 IoT Based Smart Crop Protection System for Agriculture
 ## 💻Project Details
 - TECHNOLOGY : IOT        
