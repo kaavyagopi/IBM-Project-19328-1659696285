@@ -1,6 +1,5 @@
 # IBM-Project-19328-16596285
 # 🌱 IoT Based Smart Crop Protection System for Agriculture
-! [AUR last modified] (https://img.shields.io/aur/last-modified/google-chrome)
 ## 💻Project Details
 - TECHNOLOGY : IOT        
 - TEAM ID : PNT2022TMID39683
