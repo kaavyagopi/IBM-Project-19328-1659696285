@@ -6,7 +6,7 @@
 - TECHNOLOGY : IOT        
 - TEAM ID : PNT2022T
 
-# <img src="https://user-images.githubusercontent.com/111967006/196875757-3b75075b-bdc4-4e24-85fd-ce7cca199cc1.gif" width="70px">TEAM MEMBERS
+## TEAM MEMBERS
 
 ```sh
 Swetha S- Team Lead
@@ -17,7 +17,7 @@ Pooja Lakshmi S-Team Member
 Team Member 5
 ```
 
-# **👩🏻‍💻PROJECT DESCRIPTION:**          
+# <img src="https://user-images.githubusercontent.com/111967006/196875757-3b75075b-bdc4-4e24-85fd-ce7cca199cc1.gif" width="50px">PROJECT DESCRIPTION        
 Detection of animals damaging crops.
 Getting protection from animals damaging crops.      
 Alerts the authorized person to when something enters into the crop field.     
