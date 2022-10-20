@@ -1,6 +1,6 @@
 # IBM-Project-19328-16596285
 ![IOT  template](https://user-images.githubusercontent.com/111967006/196862001-ab4cc494-7953-4b24-8cd4-77cad4892b15.png)
-#  <img src="https://user-images.githubusercontent.com/111967006/196842888-b43e540b-47e9-4d82-bcd2-e10021b23dd8.gif" width="50px">IoT Based Smart Crop Protection System for Agriculture
+#  <img src="https://user-images.githubusercontent.com/111967006/196842888-b43e540b-47e9-4d82-bcd2-e10021b23dd8.gif" width="70px">IoT Based Smart Crop Protection System for Agriculture
  
 ## 💻PROJECT DETAILS
 - TECHNOLOGY : IOT        
