@@ -2,7 +2,7 @@
 ![IOT  template](https://user-images.githubusercontent.com/111967006/196862001-ab4cc494-7953-4b24-8cd4-77cad4892b15.png)
 #  <img src="https://user-images.githubusercontent.com/111967006/196871853-8fb86cd1-5f82-4ee3-8324-18f869edb5e6.gif" width="70px">IoT Based Smart Crop Protection System for Agriculture
  
-# <img src="https://user-images.githubusercontent.com/111967006/196871853-8fb86cd1-5f82-4ee3-8324-18f869edb5e6.gif" width="70px">PROJECT DETAILS
+# <img src="https://user-images.githubusercontent.com/111967006/196874365-4e84dd0b-0441-4a4a-8834-5c746b13b720.gif" width="70px">PROJECT DETAILS
 - TECHNOLOGY : IOT        
 - TEAM ID : PNT2022T
 
