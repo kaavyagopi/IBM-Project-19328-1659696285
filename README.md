@@ -6,7 +6,7 @@
 - TECHNOLOGY : IOT        
 - TEAM ID : PNT2022T
 
-## 🫂TEAM MEMBERS
+# <img src="https://user-images.githubusercontent.com/111967006/196875757-3b75075b-bdc4-4e24-85fd-ce7cca199cc1.gif" width="70px">TEAM MEMBERS
 
 ```sh
 Swetha S- Team Lead
