@@ -2,11 +2,11 @@
 ![IOT  template](https://user-images.githubusercontent.com/111967006/196862001-ab4cc494-7953-4b24-8cd4-77cad4892b15.png)
 #  <img src="https://user-images.githubusercontent.com/111967006/196871853-8fb86cd1-5f82-4ee3-8324-18f869edb5e6.gif" width="70px">IoT Based Smart Crop Protection System for Agriculture
  
-# <img src="https://user-images.githubusercontent.com/111967006/196878301-921cc50a-e625-463e-ba13-1ca5e15d092c.gif" width="70px">PROJECT DETAILS
+# <img src="https://user-images.githubusercontent.com/111967006/196880265-211ec703-bceb-4f63-818d-556411b6c687.gif" width="70px">PROJECT DETAILS
 - TECHNOLOGY : IOT        
 - TEAM ID : PNT2022T
 
-# <img src="https://user-images.githubusercontent.com/111967006/196880265-211ec703-bceb-4f63-818d-556411b6c687.gif" width="70px">TEAM MEMBERS
+# <img src="https://user-images.githubusercontent.com/111967006/196878301-921cc50a-e625-463e-ba13-1ca5e15d092c.gif" width="70px">TEAM MEMBERS
 
 ```sh
 Swetha S- Team Lead
