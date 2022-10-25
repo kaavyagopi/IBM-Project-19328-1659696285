@@ -9,11 +9,11 @@
 # <img src="https://user-images.githubusercontent.com/111967006/196878301-921cc50a-e625-463e-ba13-1ca5e15d092c.gif" width="70px">TEAM MEMBERS
 
 ```sh
-Swetha S- Team Lead
-Rashika v - Team Member
-Sangavi K - Team Member
-Sneha B R-Team Member
-Pooja Lakshmi S-Team Member
+•Swetha S- Team Lead
+•Rashika v - Team Member
+•Sangavi K - Team Member
+•Sneha B R-Team Member
+•Pooja Lakshmi S-Team Member
 Team Member 5
 ```
 
