@@ -18,7 +18,7 @@ Pooja Lakshmi S-Team Member
 ```
 
 # <img src="https://user-images.githubusercontent.com/111967006/196875757-3b75075b-bdc4-4e24-85fd-ce7cca199cc1.gif" width="50px">PROJECT DESCRIPTION        
-The IOT device is used to indicate the farmer by a message while someone enter into the farm and we are used SD card module that helps to store a specified sound to fear the animals.This project is smart crop protection system for protect the farm from animals.
+The IOT device is used to indicate the farmer by a message while someone enter into the farm and we are used SD card module that helps to store a specified sound to fear the animals.This project is smart crop protection system for protect the farm from animals. 
 
 
 
