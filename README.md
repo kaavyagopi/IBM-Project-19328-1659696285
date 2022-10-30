@@ -4,7 +4,7 @@
  
 # <img src="https://user-images.githubusercontent.com/111967006/196880265-211ec703-bceb-4f63-818d-556411b6c687.gif" width="70px">PROJECT DETAILS
 - TECHNOLOGY : IOT        
-- TEAM ID : PNT2022T
+- TEAM ID : PNT2022TMID39683
 
 # <img src="https://user-images.githubusercontent.com/111967006/196878301-921cc50a-e625-463e-ba13-1ca5e15d092c.gif" width="70px">TEAM MEMBERS
 
